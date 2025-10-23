@@ -37,5 +37,8 @@
 *.out
 *.app
 
+#configuration files
+*.json
+
 # debug information files
 *.dwo
